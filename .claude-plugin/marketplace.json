@@ -1,0 +1,22 @@
+{
+  "name": "orca-sensor-marketplace",
+  "owner": {
+    "name": "Orca Security"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for Orca teams",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-toolkit",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ilyabrykau-orca/claude-toolkit.git"
+      },
+      "description": "MCP tool routing, native tool enforcement, edit guards, session analytics",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}

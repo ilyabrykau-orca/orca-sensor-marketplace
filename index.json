@@ -3,9 +3,9 @@
   "name": "orca-sensor-marketplace",
   "description": "Claude Code plugins for the Orca Sensor team",
   "plugins": {
-    "orca-sensor-claude": {
-      "description": "Codanna/Serena MCP routing, tool enforcement, Serena edit guard, session analytics",
-      "repository": "ilyabrykau-orca/orca-sensor-claude",
+    "claude-toolkit": {
+      "description": "MCP tool routing, native tool enforcement, edit guards, session analytics",
+      "repository": "ilyabrykau-orca/claude-toolkit",
       "branch": "main",
       "versions": {
         "1.0.0": {

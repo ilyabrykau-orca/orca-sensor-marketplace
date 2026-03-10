@@ -6,10 +6,10 @@
     "orca-sensor-claude": {
       "description": "Codanna/Serena MCP routing, tool enforcement, Serena edit guard, session analytics",
       "repository": "ilyabrykau-orca/orca-sensor-claude",
-      "branch": "v2.0-enforcement",
+      "branch": "main",
       "versions": {
-        "2.1.0": {
-          "ref": "v2.0-enforcement",
+        "1.0.0": {
+          "ref": "v1.0.0",
           "minCliVersion": "2.0.0"
         }
       }

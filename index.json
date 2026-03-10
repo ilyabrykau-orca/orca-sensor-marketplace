@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/anthropics/claude-code/main/schemas/marketplace-index.json",
+  "name": "orca-sensor-marketplace",
+  "description": "Claude Code plugins for the Orca Sensor team",
+  "plugins": {
+    "orca-sensor-claude": {
+      "description": "Codanna/Serena MCP routing, tool enforcement, Serena edit guard, session analytics",
+      "repository": "ilyabrykau-orca/orca-sensor-claude",
+      "branch": "v2.0-enforcement",
+      "versions": {
+        "2.1.0": {
+          "ref": "v2.0-enforcement",
+          "minCliVersion": "2.0.0"
+        }
+      }
+    }
+  }
+}

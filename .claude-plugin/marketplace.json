@@ -12,10 +12,11 @@
       "name": "claude-toolkit",
       "source": {
         "source": "url",
-        "url": "https://github.com/ilyabrykau-orca/claude-toolkit.git"
+        "url": "https://github.com/ilyabrykau-orca/claude-toolkit.git",
+        "ref": "v1.0.0"
       },
-      "description": "MCP tool routing (codebase-memory-mcp + RTK + Serena), native tool enforcement, edit guards, session analytics",
-      "version": "2.1.0",
+      "description": "MCP tool routing, native tool enforcement, edit guards, session analytics",
+      "version": "1.0.0",
       "strict": true
     }
   ]

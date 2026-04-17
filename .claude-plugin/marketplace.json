@@ -13,10 +13,10 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ilyabrykau-orca/claude-toolkit.git",
-        "ref": "v1.0.0"
+        "ref": "v2.2.0"
       },
-      "description": "MCP tool routing, native tool enforcement, edit guards, session analytics",
-      "version": "1.0.0",
+      "description": "MCP tool routing, native tool enforcement, edit guards, caveman activation, session analytics",
+      "version": "2.2.0",
       "strict": true
     }
   ]
